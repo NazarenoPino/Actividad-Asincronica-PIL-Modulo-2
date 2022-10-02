@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    color: green;
+}
+h4{
+    font-size: medium;
+}
+h4, h1{
+    font-family: sans-serif;
+}
